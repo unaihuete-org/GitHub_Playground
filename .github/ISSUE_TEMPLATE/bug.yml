@@ -1,6 +1,6 @@
 name: Bug Report
 description: File a bug report
-title: "[MODULE]-[LAB]:[QUICK_DESCRIPTION]"
+title: "M00-LAB00: QUICK_DESCRIPTION"
 labels: ["bug"]
 assignees:
   - unaihuete93
@@ -9,6 +9,8 @@ body:
     attributes:
       value: |
         # Thanks for taking the time to fill out this bug report!
+        
+        **Replace M00-LAB00:QUICK_DESCRIPTION, for example M01-LAB01: My new issue**
   - type: input
     id: contact
     attributes:

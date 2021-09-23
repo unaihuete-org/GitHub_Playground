@@ -1,7 +1,7 @@
 name: Bug Report
 description: File a bug report
 title: "[MODULE]-[LAB]:[QUICK_DESCRIPTION]"
-labels: ["bug",*options]
+labels: ["bug"]
 assignees:
   - unaihuete93
 body:
@@ -41,7 +41,7 @@ body:
     attributes:
       label: Lab
       description: Lab name
-      &options:
+      options:
         - Lab 00 
         - Lab 01 
     validations:

@@ -2,7 +2,6 @@ name: Lab issue
 about: Use this template for tracking new issues.
 title: "[M00]-[LABNUMBER]:[QUICK_DESCRIPTION]"
 labels: ["bug"]
-
 body:
   - type: markdown
     attributes:

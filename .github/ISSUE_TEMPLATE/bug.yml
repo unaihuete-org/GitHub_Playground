@@ -3,25 +3,25 @@ about: Use this template for tracking new issues.
 title: "[M00]-[LABNUMBER]:[QUICK_DESCRIPTION]"
 labels: ["bug"]
 body:
-  - type: markdown
-    attributes:
-    value: |
-        Thanks for taking the time to fill out this bug report!
-  - type: dropdown
-    id: Lab-Name
-    attributes:
-      label: Lab Name
-      description: Choose the related lab from the dropdown
-      options:
-        - Lab 00 Validate lab environment
-        - Lab 01 Agile Planning and Portfolio Management with Azure Boards
-        - Lab 02 Version Controlling with Git in Azure Repos
-        - Lab 03 Sharing Team Knowledge using Azure Project Wikis
-    validations:
-      required: true
-   - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"      
+- type: markdown
+  attributes:
+  value: |
+      Thanks for taking the time to fill out this bug report!
+- type: dropdown
+  id: Lab-Name
+  attributes:
+    label: Lab Name
+    description: Choose the related lab from the dropdown
+    options:
+      - Lab 00 Validate lab environment
+      - Lab 01 Agile Planning and Portfolio Management with Azure Boards
+      - Lab 02 Version Controlling with Git in Azure Repos
+      - Lab 03 Sharing Team Knowledge using Azure Project Wikis
+  validations:
+    required: true
+ - type: textarea
+  id: what-happened
+  attributes:
+    label: What happened?
+    placeholder: Tell us what you see!
+    value: "A bug happened!"      

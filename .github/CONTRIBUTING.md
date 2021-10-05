@@ -18,10 +18,9 @@ To address general comments about the course and demos, or how to prepare for a 
 
 ### Reporting Issues
 
-You can open **Issues** from our public repository if you find any problems with the latest version of the lab instructions. Make sure to fill in information as specified by the issue templates.
+You can open **Issues** from our public repository if you find any problems with the latest version of the lab instructions. Make sure to fill in information as specified by the issue templates (issue or feedback).
 
 - **Explain the problem** and include additional details to help maintainers reproduce the problem.
-
 - **Use a clear and descriptive title** for the issue to identify the problem, as mentioned in template.
 - **Describe the exact steps which reproduce the problem** in as many details as possible.
 - **Include screenshots** which show you following the described steps and clearly demonstrate the problem.

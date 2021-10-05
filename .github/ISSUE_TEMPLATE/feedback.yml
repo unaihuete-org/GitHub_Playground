@@ -26,6 +26,7 @@ body:
       description: What should we change?
       placeholder: Tell us your proposal!
       value: |
+      PROPOSAL
        
     validations:
       required: true

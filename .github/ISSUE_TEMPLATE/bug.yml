@@ -57,8 +57,8 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: Do you want to help us? :octocat:
+      description: Create a pull request by following the instructions in [Collaboration Guide] (https://example.com)
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true

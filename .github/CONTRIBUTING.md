@@ -29,6 +29,11 @@ You can open **Issues** from our public repository if you find any problems with
 
 If you want to collaborate fixing an issue or proposing updates, please create a Pull Request.
 
+#### Easy PRs using GitHub (not git knowledge needed)
+For people that may not have enough experience forking and working with Git repositories locally, here we explain an easy way of proposing PRs using GitHub website:
+
+VIDEO PENDING!
+
 #### Creating a Pull Request
 
 You may be creating a Pull Request for an existing issue or proposal. If the Pull Request is related to an existing issue, please link it by providing the **Issue** number on the **Fixes #[Issue-Number]** section of the Pull Request description (replace "[]" too). If the Pull Request is related to an issue that has not been reported yet, please report it, following the previously mentioned steps. 

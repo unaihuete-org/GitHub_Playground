@@ -58,7 +58,7 @@ body:
     id: terms
     attributes:
       label: Do you want to help us? :octocat:
-      description: Create a pull request by following the instructions in [Collaboration Guide] (https://example.com)
+      description: Create a pull request by following the instructions in 
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true

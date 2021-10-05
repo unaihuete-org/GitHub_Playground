@@ -57,7 +57,7 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Do you want to help us? :octocat: 
+      label: Do you want to help us? 👏
       description: Create a pull request by following the instructions in 
       options:
         - label: I agree to follow this project's Code of Conduct

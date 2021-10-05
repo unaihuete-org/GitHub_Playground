@@ -63,7 +63,7 @@ For example,
 
 #### Taking and editing screenshots
 
-As Microsoft Certified Trainers (MCT), TechSmith is offering **Snagit** as part of their Influencer Program. Apply now at https://discover.techsmith.com/techsmith-influencer-program/.
+For Microsoft Certified Trainers (MCT), TechSmith is offering **Snagit** as part of their Influencer Program. Apply now at https://discover.techsmith.com/techsmith-influencer-program/.
 
 [Snagit](https://www.techsmith.com/screen-capture.html) is a great tool for capturing screen that provides us with useful tools for the functionality we want to add to our screenshots.
 

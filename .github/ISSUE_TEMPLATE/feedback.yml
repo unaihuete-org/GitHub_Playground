@@ -1,0 +1,48 @@
+name: Feedback Report
+description: File a feedback report
+title: "M00-LAB00: QUICK_DESCRIPTION"
+labels: ["feedback"]
+assignees:
+  - unaihuete93
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Thanks for taking the time to fill out this feedback report!
+        
+        **Replace feedback name M00-LAB00:QUICK_DESCRIPTION, for example "M01-LAB01: My new feedback"**
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info 😉?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What should we change?
+      description: What should we change?
+      placeholder: Tell us your proposal!
+      value: |
+       
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Lab
+      description: Lab name
+      options:
+        - Lab 00 
+        - Lab 01 
+    validations:
+      required: true
+  - type: textarea
+    id: Screenshots
+    attributes:
+      label: Relevant screenshots
+      description: Please copy and paste any relevant screenshots 📸
+      value: paste here 😉 
+  

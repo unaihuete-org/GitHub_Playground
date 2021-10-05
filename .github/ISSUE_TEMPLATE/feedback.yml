@@ -25,9 +25,7 @@ body:
       label: What should we change?
       description: What should we change?
       placeholder: Tell us your proposal!
-      value: |
-      PROPOSAL
-       
+      value: PROPOSAL
     validations:
       required: true
   - type: dropdown

@@ -25,6 +25,8 @@ You can open **Issues** from our public repository if you find any problems with
 - **Describe the exact steps which reproduce the problem** in as many details as possible.
 - **Include screenshots** which show you following the described steps and clearly demonstrate the problem.
 
+SCREENSHOT/GIF PENDING --> TODO in official repo 
+
 ### Pull Requests
 
 If you want to collaborate fixing an issue or proposing updates, please create a Pull Request.
@@ -32,11 +34,15 @@ If you want to collaborate fixing an issue or proposing updates, please create a
 #### Easy PRs using GitHub (not git knowledge needed)
 For people that may not have enough experience forking and working with Git repositories locally, here we explain an easy way of proposing PRs using GitHub website:
 
-VIDEO PENDING!
+VIDEO PENDING --> TODO in official repo
+
+> ⚠️ This option is encouraged for people with no Git/GitHub experience, same process could be manually followed: [GitHub, working with forks](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks)
 
 #### Creating a Pull Request
 
-You may be creating a Pull Request for an existing issue or proposal. If the Pull Request is related to an existing issue, please link it by providing the **Issue** number on the **Fixes #[Issue-Number]** section of the Pull Request description (replace "[]" too). If the Pull Request is related to an issue that has not been reported yet, please report it, following the [previously](https://github.com/unaihuete-org/GitHub_Playground/blob/main/.github/CONTRIBUTING.md#reporting-issues) mentioned steps. 
+You may be creating a Pull Request for an existing issue or proposal. If the Pull Request is related to an existing issue, link it by providing the **Issue** number on the **Fixes #[Issue-Number]** section of the Pull Request description (replace "[]" too). 
+
+> ⚠️ If the Pull Request is related to an issue that has not been reported yet, please report it, following the [previously](https://github.com/unaihuete-org/GitHub_Playground/blob/main/.github/CONTRIBUTING.md#reporting-issues) mentioned steps. 
 
 If your Pull Request is related to a proposal, no **Issue** item needs to be created/referenced.
 
@@ -63,7 +69,9 @@ For example,
 
 `![Azure DevOps Generator website. Click on "Sign In" option](images/m1/demo_signin_v1.png)`
 
-> **Note**: image could be resized using the following syntax example, modifying with to your needs: 
+> ⚠️ For accesibility, the ALT text should include a **clear** description of the screenshot, as shown in the example above.
+
+> ⚠️ Image could be resized using the following syntax example, modifying with to your needs: 
 `[<img src="images/m1/child_feature_v1.png" alt="Include Title 'Training Dashboard' and click 'OK' " width="500"/>]()`
 
 #### Taking and editing screenshots (Lab 1)

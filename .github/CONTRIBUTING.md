@@ -44,7 +44,7 @@ For the Pull Request title, use the following syntax:
 
 `[Issue/Proposal]-[M00]-[LABNAME]:[QUICK_DESCRIPTION]`
 
-#### Creating/Updating screenshots
+#### Creating/Updating screenshots (Lab 1)
 
 The screenshot being used by some instructions are organized the following way, a folder located under `AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/images` with the lab number. 
 
@@ -53,7 +53,7 @@ The screenshot being used by some instructions are organized the following way, 
 On the lab specific folder, screenshots will be saved on the following format (PNG) and naming:
 `[descriptive_name]_[versionnumber].png`, for example, `create_epic_v1.png`
 
-If the screenshot needs to be updated, the new one will increment the version number, `create_epic_v1.png` to `create_epic_v2.png` and delete the existing one as part of your Pull Request.
+If the screenshot needs to be updated, the new one will increment the version number, `create_epic_v1.png` to `create_epic_v2.png`, be uploaded to the corresponding **images** folder and delete the existing one as part of your Pull Request.
 
 For referencing and using the screenshot in the lab instructions, the image should be added as shown below:
 
@@ -66,7 +66,7 @@ For example,
 > **Note**: image could be resized using the following syntax example, modifying with to your needs: 
 `[<img src="images/m1/child_feature_v1.png" alt="Include Title 'Training Dashboard' and click 'OK' " width="500"/>]()`
 
-#### Taking and editing screenshots
+#### Taking and editing screenshots (Lab 1)
 
 For Microsoft Certified Trainers (MCT), TechSmith is offering **Snagit** as part of their Influencer Program. Apply now at https://discover.techsmith.com/techsmith-influencer-program/.
 
